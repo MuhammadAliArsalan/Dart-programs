@@ -1,4 +1,6 @@
 
+//Write a Dart program to generate the Fibonacci series up to a given number of terms
+
 void isFibonacci(int number){
   int a=0;
   int b=1;
@@ -14,7 +16,6 @@ void isFibonacci(int number){
   else{
     print("The number is not a Fibonacci number");
   }
-
 }
 void main(){
   isFibonacci(23);
