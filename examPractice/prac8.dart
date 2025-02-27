@@ -1,3 +1,5 @@
+//Both implement and extend
+
 // Base class (Super Class)
 class Animal {
   void makeSound() {
