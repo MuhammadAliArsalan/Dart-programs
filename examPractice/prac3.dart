@@ -1,3 +1,5 @@
+//Inheritance
+
 import 'dart:io';
 class Person{
   String? name;

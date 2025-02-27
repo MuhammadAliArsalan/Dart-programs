@@ -1,3 +1,5 @@
+//INHERITANCE (mutiple constructors)
+
 class Person {
   // Instance variables
   String? name;

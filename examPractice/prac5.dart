@@ -1,3 +1,5 @@
+//ENCAPSULATION (Setter and getters)
+
 import 'dart:io';
 
 class Library{
